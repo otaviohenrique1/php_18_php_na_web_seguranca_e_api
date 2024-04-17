@@ -1,6 +1,6 @@
 {
     "name": "otavio/aluraplay",
-    "description": "Projeto do curso 'PHP na Web conhecendo o padrão MVC' da Alura",
+    "description": "Projeto do curso 'PHP na Web lidando com segurança e API' da Alura",
     "autoload": {
         "psr-4": {
             "Alura\\Mvc\\": "src/"
@@ -12,5 +12,9 @@
             "email": "otaviohlsilva@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripts": {
+        "dumpautoload": "composer dumpautoload",
+        "start": "php -S localhost:8080 -t public/"
+    }
 }

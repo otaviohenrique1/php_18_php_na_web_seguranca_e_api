@@ -1,6 +1,6 @@
-# php_16_php_e_mysql
+# php_18_php_na_web_seguranca_e_api
 
-Projeto do curso "PHP na Web conhecendo o padrão MVC" da Alura
+Projeto do curso "PHP na Web lidando com segurança e API" da Alura
 
 ## Links
 
